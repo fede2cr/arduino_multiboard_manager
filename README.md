@@ -17,12 +17,15 @@ https://raw.githubusercontent.com/fede2cr/arduino_multiboard_manager/master/pack
 
 ## Current boards
 
+This are some of the boards we can reliably get here in Costa Rica and are used
+in different courses in Greencore Solutions.
+
 1. Adafruit
-  URL = https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
+  * URL = https://adafruit.github.io/arduino-board-index/package_adafruit_index.json 
 
 2. ESP Community
-  URL = http://arduino.esp8266.com/stable/package_esp8266com_index.json
-  Note: Dangerous http url!
+  * URL = http://arduino.esp8266.com/stable/package_esp8266com_index.json
+  * Note: Dangerous http url!
 
 3. Moteino
-  URL = https://lowpowerlab.github.io/MoteinoCore/package_LowPowerLab_index.json
+  * URL = https://lowpowerlab.github.io/MoteinoCore/package_LowPowerLab_index.json
