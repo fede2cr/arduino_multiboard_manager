@@ -29,3 +29,8 @@ in different courses in Greencore Solutions.
 
 3. Moteino
   * URL = https://lowpowerlab.github.io/MoteinoCore/package_LowPowerLab_index.json
+
+## TODO
+- [x] Python code to download the JSON files
+- [x] Python code to merge the multiple vendor's files into a valid JSON file
+- [ ] Check agains the old file. If different, overwrite and print a message to commit the new json
