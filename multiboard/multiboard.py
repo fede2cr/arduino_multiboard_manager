@@ -8,4 +8,5 @@ for u in url:
     response = urllib.urlopen(u)
     output_list.append(json.loads(response.read()))
 
-print(json.dumps(output_list, indent=4))
+print(json.dumps(output_list[0], indent=4))
+#print(output_list)
